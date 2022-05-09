@@ -1,8 +1,14 @@
 {
-    "uuid": "air-raid-monitor@sirens.in.ua",
-    "name": "Air raid monitor",
-    "description": "Shows active air raid sirens in Ukraine.",
-    "version": 1,
-    "shell-version": [ "42" ],
-    "url": "https://github.com/dr-mod/air-raid-widget-linux"
+  "uuid": "air-raid-monitor@sirens.in.ua",
+  "name": "Air raid monitor",
+  "description": "Shows active air raid sirens in Ukraine.",
+  "version": 1,
+  "shell-version": [
+    "3.34",
+    "3.36",
+    "3.38",
+    "40",
+    "42"
+  ],
+  "url": "https://github.com/dr-mod/air-raid-widget-linux"
 }
