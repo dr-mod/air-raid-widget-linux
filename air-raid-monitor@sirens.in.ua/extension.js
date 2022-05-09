@@ -8,12 +8,13 @@ const ByteArray = imports.byteArray;
 
 // Parameters
 const api = 'http://sirens.in.ua/api/v1/';
-const width = 320;
-const height = 214;
-const opacity = 210;
-const interval = 20 * 1000;
+const width = 240;
 const x = 80;
 const y = 40;
+const opacity = 210;
+
+const interval = 20 * 1000;
+const height = width * 0.67;
 
 let map;
 let extension = null;
